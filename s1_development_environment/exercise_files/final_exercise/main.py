@@ -1,9 +1,8 @@
 import argparse
 import sys
 
-import torch
 import click
-
+import torch
 from data import mnist
 from model import MyAwesomeModel
 
